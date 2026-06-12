@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ksatcades.github.io/mksportsen-com-cn/sitemap.xml
